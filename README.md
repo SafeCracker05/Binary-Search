@@ -9,7 +9,7 @@
 
  * on comment la while :
    - Premiere iteration :
-        le array[mid] est plus petit que number ducoup on va ajouter au left mid + 1 = 11
+        le array[mid] est plus petit que number ducoup on va ajouter au left mid + 1 = 11/n
         on ajuste le mid a (11 + 19) / 2 = 15
    - deuxieme iteration :
         le array[mid] est plus petit que number ducoup on va ajouter au left mid + 1 = 12
